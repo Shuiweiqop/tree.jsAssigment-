@@ -1,4 +1,4 @@
-# Kasatria Assignment: 3D Data Visualization
+# 3D Data Visualization
 
 A web page that signs the user in with Google, reads user records from a Google Sheet, and shows them as interactive cards in four 3D layouts (Table, Sphere, Helix, Grid). It is built with Three.js (`CSS3DRenderer`) and Vite.
 
